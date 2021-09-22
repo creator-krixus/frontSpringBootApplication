@@ -1,6 +1,7 @@
 import './App.css';
-import NavBar from './components/NavBar.js';
-import Student from './components/Student.js';
+import NavBar from './components/NavBar';
+import Student from './components/Student';
+import TableStudent from './components/TableStudent';
 
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div className="App">
         <NavBar />
         <Student />
+        <TableStudent />
     </div>
   );
 }

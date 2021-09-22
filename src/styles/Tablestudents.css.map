@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EACN,YAAY,EAAE,GAAG;EACjB,MAAM,EAAE,OAAO;CAClB;;AACD,AAAA,eAAe,CAAC;EACZ,KAAK,EAAE,OAAO;CACf",
+    "sources": [
+        "Tablestudents.scss"
+    ],
+    "names": [],
+    "file": "Tablestudents.css"
+}
